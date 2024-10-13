@@ -1,1 +1,3 @@
 # Covid-19_Project
+
+The COVID-19 pandemic significantly affected the psychological well-being of healthcare workers, leading to increased levels of anxiety, depression, and stress. This project aims to classify healthcare workers into high-risk and low-risk groups based on their psychological stress levels using Artificial Neural Networks (ANN). By incorporating SHAP (SHapley Additive exPlanations) analysis, the project will provide insights into the factors that contribute to the stress levels of healthcare workers, ensuring the interpretability of model outputs. The research focuses on data collected from 5108 medical workers in Changchun, Jilin Province, China, using the Symptom Checklist 90 (SCL-90).
